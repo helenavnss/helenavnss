@@ -7,5 +7,3 @@ This repository serves as a comprehensive showcase of my skills, projects, and e
 I am currently pursuing a degree in Data Analysis, where I have honed my skills in collecting, cleaning, and analyzing data to extract meaningful patterns and trends. 
 
 My journey through school has equipped me with a strong foundation in statistical analysis, data visualization, and machine learning.
-
-Check out my LinkedIn: https://www.linkedin.com/in/helena-van-ess-099568258/
